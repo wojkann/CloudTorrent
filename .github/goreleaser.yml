@@ -51,7 +51,7 @@ changelog:
 
 release:
   github:
-    owner: xAmarnath
+    owner: wojkann
     name: CloudTorrent
   draft: false
   prerelease: auto
